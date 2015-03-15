@@ -1,1 +1,36 @@
+task operation - based on best cases
+CC:NC:BY:SA.
 
+
+
+-- process -- read on if agree-- everything should be free no money ---
+
+
+
+
+From google summer of code updated March 3, 2015. Added March 15, 2015.
+http://google-opensource.blogspot.com/2015/03/google-code-in-2014-wrap-up-with-haiku.html
+introducing 13 to 17 year old students to working in open source communities.
+
+ 2014 was the fifth year for Google Code-in (GCI) and also Haiku’s fifth year participating. 
+ This was the first year where we offered beginner tasks designed to give students an easy way to get started. 
+ These tasks introduced students to booting and using Haiku, compiling Haiku, and using Haikuporter to build a package
+ from a recipe file.
+
+149 students completed at least one task with us this year and 
+36 students completed at least three tasks with us to earn a GCI t-shirt. 
+Six students completed over 20 tasks each in a bid to become grand prize winners. 
+Each mentoring organization selected two grand prize winners and three finalists. 
+Our finalists were Augustin Cavalier, Markus Himmel and Chirayu Desai. 
+(Chirayu was also a GCI 2013 winner with RTEMS.) Our winners were Josef Gajdusek and Puck Meerburg.
+
+After getting started with beginner tasks, 
+many students moved on to tasks which added improvements to Haiku or fixed bugs. 
+Students contributed to HaikuWeather, SuperFreeCell, BookmarkConvert, and our CatKey editor. 
+Many HaikuPorter recipes were added and updated, making it easier 
+to bring existing software into Haiku. Several tickets were resolved
+, new GUI controls were created, new screensavers were added, and several apps were updated to make use of 
+Layout Manager. 
+
+In total, students completed a staggering 435 tasks for Haiku during the
+summer of code 2014. contest?
